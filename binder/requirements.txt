@@ -1,2 +1,2 @@
 ipyleaflet
-jupyterlab
+jupyterlab==1.0.0a1
